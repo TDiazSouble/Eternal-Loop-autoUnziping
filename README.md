@@ -8,3 +8,5 @@ Bash script for challenge "Eternal Loop" in Hack The Box
 ---------------
 
 This script unzips a the files until user stops the loop. It shows the passwords and files, for the user to see and analyze.
+
+You can comment line 16 to avoid getting the terminal filled with information about files in each loop.
